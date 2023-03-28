@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+Docs partial mdformat improvements (#7378)
