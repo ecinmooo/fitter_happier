@@ -1,1 +1,1 @@
-Add Neural Magic Docs integrations page (#7234)
+Fix heatmaps width-height order bug (#7184)
